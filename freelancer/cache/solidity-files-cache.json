@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\a10ne\\OneDrive\\Desktop\\test project\\project 4\\freelancer\\contracts\\NodeFinal.sol": {
+      "lastModificationDate": 1684274905100,
+      "contentHash": "34cf5a06f6fe58444813c07296d4b90b",
+      "sourceName": "contracts/NodeFinal.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "NodeFinal"
+      ]
+    }
+  }
+}
